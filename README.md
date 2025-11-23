@@ -4,6 +4,7 @@
 
 # **MarketPulse**  
 *Real-Time AI Trend Radar for MSMEs*
+*AI + Multilingual Trend Detection for Inclusive Business Growth*
 
 ---
 
@@ -93,8 +94,32 @@ Micro and small businesses in India (over 63 million) face critical challenges:
 
 ### 💻 Frontend
 - Streamlit Dashboard for rapid UI development
+- Light theme UI
+- HTML, CSS, JavaScript for frontend interface
 
 ---
+MarketPulse/
+│
+├── __pycache__/                   # Compiled Python files for faster execution
+│
+├── data/                          # Directory for datasets and raw data files
+│   └── csv.csv                    # Sample or input data file
+│
+├── engines/                       # Core processing scripts for market trend analysis
+│   └── db_sim.py                  # Database simulation or interaction script
+│
+├── static/                        # Static assets such as images, CSS, and JavaScript files
+│
+├── templates/                     # HTML templates for rendering web pages
+│   ├── insight.html
+│   ├── msme.html
+│   └── settingnew.html
+│
+├── app.py                         # Main application script to run the platform
+├── auth.py                        # Handles user authentication and login
+├── blackant_llama_structured.db  # SQLite database storing structured data and user info
+├── tempCodeRunnerFile.py          # Temporary script generated during development
+├── trend_engine.PY.txt             # Notes or code snippets related to trend analysis engine
 
 ## 🧪 Sample Alert Output (Concept)
 
