@@ -107,10 +107,11 @@ Micro and small businesses in India (over 63 million) face critical challenges:
 ## Main Dashboard View
 
 
-## MSME Data View
-
+## Market Data View
+<img width="730" height="628" alt="Image" src="https://github.com/user-attachments/assets/147bd783-387b-4285-89e7-0a4248e1f6ce" />
 
 ## Setting View
+<img width="1062" height="628" alt="Image" src="https://github.com/user-attachments/assets/e21188fb-c3f1-48fa-9129-99249e12e5d7" />
 
 
 ## 🧪 Sample Alert Output (Concept)
