@@ -2,7 +2,7 @@
 
 ---
 
-# **MarketPulse**  
+#   **MarketPulse**  
 *Real-Time AI Trend Radar for MSMEs*
 *AI + Multilingual Trend Detection for Inclusive Business Growth*
 
@@ -105,6 +105,7 @@ Micro and small businesses in India (over 63 million) face critical challenges:
 <img width="1124" height="621" alt="Image" src="https://github.com/user-attachments/assets/131f7669-6e7e-42fb-8558-5318412fa3c3" />
 
 ## Main Dashboard View
+<img width="1113" height="629" alt="Image" src="https://github.com/user-attachments/assets/1c5c7bf7-6fd2-4bce-9116-b03e26fb1003" />
 
 
 ## Market Data View
