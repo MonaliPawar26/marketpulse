@@ -102,6 +102,7 @@ Micro and small businesses in India (over 63 million) face critical challenges:
 # Dashboard Screenshots
 
 ## Login Portal
+<img width="1124" height="621" alt="Image" src="https://github.com/user-attachments/assets/131f7669-6e7e-42fb-8558-5318412fa3c3" />
 
 ## Main Dashboard View
 
