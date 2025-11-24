@@ -96,6 +96,7 @@ Micro and small businesses in India (over 63 million) face critical challenges:
 - Streamlit Dashboard for rapid UI development
 - Light theme UI
 - HTML, CSS, JavaScript for frontend interface
+- msme data district wise available on data on data.gov.in 
 
 ---
 
