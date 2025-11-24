@@ -99,6 +99,17 @@ Micro and small businesses in India (over 63 million) face critical challenges:
 - msme data district wise available on data on data.gov.in 
 
 ---
+# Dashboard Screenshots
+
+## Login Portal
+
+## Main Dashboard View
+
+
+## MSME Data View
+
+
+## Setting View
 
 
 ## 🧪 Sample Alert Output (Concept)
